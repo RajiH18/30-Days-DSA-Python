@@ -17,7 +17,7 @@ A 30-day journey to improve my **Data Structures and Algorithms** skills using *
 | ------ | -------------------------------- | ------ |
 | Day 01 | Time & Space Complexity + Arrays | ✅      |
 | Day 02 | Array Traversal                  | ✅      |
-| Day 03 | Prefix Sum                       | ⏳      |
+| Day 03 | Prefix Sum                       | ✅      |
 | Day 04 | Strings                          | ⏳      |
 | Day 05 | Hashing                          | ⏳      |
 | Day 06 | Two Pointers                     | ⏳      |
